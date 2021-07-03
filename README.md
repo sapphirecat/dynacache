@@ -2,21 +2,27 @@
 
 A memcached protocol server that stores data to Amazon DynamoDb.
 
-# Private
+## Private
 
-This project will not be released publicly, in protest of the re-appointment
-of Richard Stallman to the board of the Free Software Foundation.
+This project has not been fully released publicly, in protest of the
+re-appointment of Richard Stallman to the board of the Free Software Foundation.
 
-I'm going to need something more than a bunch of white men deciding they miss
-their rape apologist buddy, especially if the best they can say about him is
-that they "feel his behavior has moderated."  _Does that even mean anything?_
-Adding to the apparent insincerity, it took them two weeks to come up with that
-egregiously bland statement.
+## Y tho
 
-I don't even know what the endgame is, here.  If Stallman were to part ways
-again, should I release dynacache?  If there is a release, it's not feasible to
-pull it back if they were to reverse course again.  Can I trust the FSF?  Can I
-trust Stallman himself?  I don't think I can give a "Yes" to either of those
-any more.
+Back when I was a teen reading Slashdot, RMS seemed pretty cool.  Since then,
+I've grown up, and Stallman hasn't.  I've worked to improve myself, but I have
+no power; meanwhile, people with power show very little indication that they
+understand improving themselves is _possible,_ or that their actions matter.
+Technical people especially seem to think that anything that isn't objectively
+quantifiable is beneath their concern.
 
-RIP the dream.
+And if I sit here giving away software, I'm supporting their dream.  I'm
+supporting their work.  I'm supporting their public image, implying that yes,
+these are people (and organizations) that I want my efforts to be associated
+with.  That is no longer the case.
+
+## The future
+
+I will probably release source code eventually; I still believe in the _ideal_
+of free software.  If the FSF were to get some true diversity on the board,
+enough to escape from tokenism, that day would come sooner.
