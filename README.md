@@ -21,8 +21,10 @@ supporting their work.  I'm supporting their public image, implying that yes,
 these are people (and organizations) that I want my efforts to be associated
 with.  That is no longer the case.
 
-## The future
+## Public Release History
 
-I will probably release source code eventually; I still believe in the _ideal_
-of free software.  If the FSF were to get some true diversity on the board,
-enough to escape from tokenism, that day would come sooner.
+- 1.1.3, 2023-04-09: go 1.20, Debian 10 container; using `GOAMD64=v1`
+- 1.1.2, 2022-04-20: go 1.18, Ubuntu 22.04; using `GOAMD64=v2`
+- 1.0.0, 2021-07-02: go 1.16, Ubuntu 21.04; predates `GOAMD64`
+
+Binaries are distributed solely through GitHub Releases.
